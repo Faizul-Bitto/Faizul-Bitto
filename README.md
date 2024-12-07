@@ -1,5 +1,5 @@
 ![logo](https://github.com/Faizul-Bitto/Faizul-Bitto/blob/main/Banner.jpg)
-<h1 align="center">Hi 👋, I'm Faizul Islam Bhuiyan (Bitto)</h1>
+<h1 align="center">Hi 👋, Greetings from Faizul Islam Bhuiyan (Bitto)</h1>
 <h3 align="center">💻 Entry-Level Programmer | Python, PHP and Laravel | ML Enthusiast 🚀 Passionate about machine learning and eager to build impactful, cutting-edge solutions.</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThhbzRocTRoenZydWtiZ2w1MnFoc2RveG9xcTdsNzc3OWlxcnlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
