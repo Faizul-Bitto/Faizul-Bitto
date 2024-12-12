@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizul-bitto&show_icons=true&locale=en&layout=compact" alt="faizul-bitto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizul-bitto&show_icons=true&locale=en" alt="faizul-bitto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizul-bitto&" alt="faizul-bitto" /></p>
