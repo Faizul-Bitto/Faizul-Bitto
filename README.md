@@ -1,4 +1,4 @@
-![logo](https://github.com/Faizul-Bitto/Faizul-Bitto/blob/main/Banner.jpg)
+![logo](https://media.licdn.com/dms/image/v2/D5616AQEp5K4tcTWbMw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734291290418?e=1740009600&v=beta&t=g-N2f8Ws0ttPLzbptPEml5V6yLk-XOqNjTRYBv21AXk)
 <h1 align="center">Hi 👋, Greetings from Faizul Islam Bhuiyan (Bitto)</h1>
 <h3 align="center">💻 Junior Full Stack Developer | 🛠️ Laravel, PHP, Vue.js & Python | 📊 ML Enthusiast | 🌱 Eager to build impactful, cutting-edge solutions</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThhbzRocTRoenZydWtiZ2w1MnFoc2RveG9xcTdsNzc3OWlxcnlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
