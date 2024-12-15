@@ -4,7 +4,10 @@
 <h1 align="center">Hi 👋, Greetings from Faizul Islam Bhuiyan (Bitto)</h1>
 <h3 align="center">💻 Junior Full Stack Developer | 🛠️ Laravel, PHP, Vue.js & Python | 📊 ML Enthusiast | 🌱 Eager to build impactful, cutting-edge solutions</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThhbzRocTRoenZydWtiZ2w1MnFoc2RveG9xcTdsNzc3OWlxcnlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<br>
+<br>
+
+<img align="right" alt="coding" height="400" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThhbzRocTRoenZydWtiZ2w1MnFoc2RveG9xcTdsNzc3OWlxcnlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizul-bitto&label=Profile%20views&color=0e75b6&style=flat" alt="faizul-bitto" /> </p>
 
@@ -31,8 +34,11 @@
   </a>
 </p>
 
-<h3 align="left">💻 Tech Stack:</h3>
-<p align="left">
+<br>
+<br>
+
+<h3 align="center">💻 Tech Stack:</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -47,8 +53,11 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
+<br>
+<br>
+
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faizul-Bitto&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizul-Bitto&theme=tokyonight" alt="GitHub Streak">
@@ -56,15 +65,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizul-Bitto&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
-<h3 align="left">✍️ Random Dev Quote:</h3>
-<p>
+<br>
+<br>
+
+<h3 align="center">✍️ Random Dev Quote:</h3>
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote">
 </p>
 
-<h3 align="left">🔝 Top Contributed Repo:</h3>
-<p>
+<br>
+<br>
+
+<h3 align="center">🔝 Top Contributed Repo:</h3>
+<p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Faizul-Bitto&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos">
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Faizul-Bitto&icon=0&color=0)](https://visitcount.itsvg.in)
