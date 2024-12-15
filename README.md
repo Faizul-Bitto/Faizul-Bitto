@@ -1,13 +1,15 @@
 <!-- GitHub README -->
 
 ![logo](https://media.licdn.com/dms/image/v2/D5616AQEp5K4tcTWbMw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734291290418?e=1740009600&v=beta&t=g-N2f8Ws0ttPLzbptPEml5V6yLk-XOqNjTRYBv21AXk)
+
 <h1 align="center">Hi 👋, Greetings from Faizul Islam Bhuiyan (Bitto)</h1>
 <h3 align="center">💻 Junior Full Stack Developer | 🛠️ Laravel, PHP, Vue.js & Python | 📊 ML Enthusiast | 🌱 Eager to build impactful, cutting-edge solutions</h3>
 
 <br>
 <br>
+<br>
 
-<img align="right" alt="coding" height="400" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThhbzRocTRoenZydWtiZ2w1MnFoc2RveG9xcTdsNzc3OWlxcnlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" height="400" width="450" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThhbzRocTRoenZydWtiZ2w1MnFoc2RveG9xcTdsNzc3OWlxcnlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizul-bitto&label=Profile%20views&color=0e75b6&style=flat" alt="faizul-bitto" /> </p>
 
@@ -36,6 +38,7 @@
 
 <br>
 <br>
+<br>
 
 <h3 align="center">💻 Tech Stack:</h3>
 <p align="center">
@@ -54,7 +57,6 @@
 </p>
 
 <br>
-<br>
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
@@ -66,14 +68,12 @@
 </p>
 
 <br>
-<br>
 
 <h3 align="center">✍️ Random Dev Quote:</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote">
 </p>
 
-<br>
 <br>
 
 <h3 align="center">🔝 Top Contributed Repo:</h3>
