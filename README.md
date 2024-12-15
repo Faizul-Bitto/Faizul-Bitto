@@ -19,11 +19,15 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/faizulbitto/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/faizulbitto/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
+
+<h3 align="left">📬 Contact Me:</h3>
+<p align="left">
   <a href="mailto:fibhuyanbitto06@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
+    <img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
   </a>
 </p>
 
@@ -63,3 +67,4 @@
 </p>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Faizul-Bitto&icon=0&color=0)](https://visitcount.itsvg.in)
