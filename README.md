@@ -1,27 +1,19 @@
+<!-- GitHub README -->
+
 ![logo](https://media.licdn.com/dms/image/v2/D5616AQEp5K4tcTWbMw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734291290418?e=1740009600&v=beta&t=g-N2f8Ws0ttPLzbptPEml5V6yLk-XOqNjTRYBv21AXk)
 
 <h1 align="center">Hi 👋, Greetings from Faizul Islam Bhuiyan (Bitto)</h1>
 <h3 align="center">💻 Junior Full Stack Developer | 🛠️ Laravel, PHP, Vue.js & Python | 📊 ML Enthusiast | 🌱 Eager to build impactful, cutting-edge solutions</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizul-bitto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
-
-<!-- Responsive Section -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; text-align: left;">
-  <!-- Text Section -->
-  <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <p>🔭 I’m currently working on Full Stack Development</p>
-    <p>🌱 I’m currently learning PHP, Laravel & Vue.js</p>
-    <p>💬 Ask me about PHP, Laravel & Vue.js</p>
-  </div>
-  <!-- GIF Section -->
-  <div style="flex: 1; min-width: 300px; margin: 10px; text-align: center;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThhbzRocTRoenZydWtiZ2w1MnFoc2RveG9xcTdsNzc3OWlxcnlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" height="400" width="450" style="max-width: 100%; border-radius: 10px;">
-  </div>
-</div>
-
 <br>
+<br>
+<br>
+
+<img align="right" alt="coding" height="400" width="450" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThhbzRocTRoenZydWtiZ2w1MnFoc2RveG9xcTdsNzc3OWlxcnlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizul-bitto&label=Profile%20views&color=0e75b6&style=flat" alt="faizul-bitto" /> </p>
+
+🔭 I’m currently working on Full Stack Development<br>🌱 I’m currently learning PHP, Laravel & Vue.js<br>💬 Ask me about PHP, Laravel & Vue.js<br>
 
 <h3 align="left">📄 My Resume:</h3>
 <p align="left">
@@ -44,6 +36,8 @@
   </a>
 </p>
 
+<br>
+<br>
 <br>
 
 <h3 align="center">💻 Tech Stack:</h3>
@@ -86,3 +80,12 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Faizul-Bitto&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos">
 </p>
+
+---
+
+in my github readme.md ->
+
+this code is completely okay, but while viewing in mobile version, i am seeing all the content below to to below
+but i want there would be a gap between profile counter and the gif i have added
+in pc or laptop version its completely fine preview
+please make this
