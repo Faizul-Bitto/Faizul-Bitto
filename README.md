@@ -82,10 +82,3 @@
 </p>
 
 ---
-
-in my github readme.md ->
-
-this code is completely okay, but while viewing in mobile version, i am seeing all the content below to to below
-but i want there would be a gap between profile counter and the gif i have added
-in pc or laptop version its completely fine preview
-please make this
