@@ -17,7 +17,7 @@
 
 <h3 align="left">📄 My Resume:</h3>
 <p align="left">
-  <a href="https://drive.google.com/file/d/1SYU4dkcP-3O-0ZUbrXhTF_a3Jl1cgZMo/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1kAYGh1-00tJwDxGJjlxDy5cs84yTebbE/view?usp=sharing" target="_blank">
     <img align="center" src="https://img.shields.io/badge/My%20Resume-%23FF6C37.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="My CV">
   </a>
 </p>
