@@ -3,7 +3,7 @@
 ![logo](https://media.licdn.com/dms/image/v2/D5616AQEp5K4tcTWbMw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734291290418?e=1740009600&v=beta&t=g-N2f8Ws0ttPLzbptPEml5V6yLk-XOqNjTRYBv21AXk)
 
 <h1 align="center">Hi 👋, Greetings from Faizul Islam Bhuiyan (Bitto)</h1>
-<h3 align="center">💻 Junior Full Stack Developer | 🛠️ Laravel, PHP, Vue.js & Python | 📊 ML Enthusiast | 🌱 Eager to build impactful, cutting-edge solutions</h3>
+<h3 align="center">💻 Full Stack Developer | 🛠️ Laravel, PHP, Vue.js & Python | 📊 ML Enthusiast | 🌱 Eager to build impactful, cutting-edge solutions</h3>
 
 <br>
 <br>
