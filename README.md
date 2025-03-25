@@ -3,7 +3,7 @@
 <!-- ![logo](https://media.licdn.com/dms/image/v2/D5616AQEp5K4tcTWbMw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734291290418?e=1740009600&v=beta&t=g-N2f8Ws0ttPLzbptPEml5V6yLk-XOqNjTRYBv21AXk) -->
 
 <h1 align="center">Hi 👋, Greetings from Faizul Islam Bhuiyan (Bitto)</h1>
-<h3 align="center">💻 Full Stack Developer | 🛠️ PHP, Laravel, Vue.js & React.js | 🌱 Eager to build impactful, cutting-edge solutions</h3>
+<h3 align="center">💻 Full Stack | 🛠️ PHP, Laravel, Vue.js & React.js | 🌱 Eager to build impactful, cutting-edge solutions</h3>
 
 <br>
 <br>
@@ -62,7 +62,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faizul-Bitto&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizul-Bitto&theme=tokyonight" alt="GitHub Streak">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizul-Bitto&theme=tokyonight" alt="GitHub Streak"> -->
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizul-Bitto&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
