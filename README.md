@@ -105,7 +105,7 @@
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="48" height="48" alt="VS Code"/><br>VS Code
       </td>
       <td align="center" width="120">
   <img src="https://avatars.githubusercontent.com/u/127165244?s=200&v=4" width="48" height="48" alt="Cursor IDE"/><br>Cursor
