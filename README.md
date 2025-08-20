@@ -3,11 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=950&height=100&lines=👋+Hey,+I'm+Faizul+Islam+Bhuiyan+(Bitto);🔥+Backend-Focused+Dev;🚀+Node.js+%7C+NestJS+%7C+Laravel;✨+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-
-
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizul-bitto&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=faizul-bitto&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -19,7 +17,7 @@
 </div>
 
 <div align="center">
-  <p><strong>Backend-Focused Developer</strong> passionate about designing clean APIs, scalable architectures, and reliable backend solutions. Currently sharpening advanced backend fundamentals to adapt quickly to any framework or technology.</p>
+  <p><strong>🎯 Backend-Focused Developer</strong> passionate about designing clean APIs, scalable architectures, and reliable backend solutions. Currently sharpening advanced backend fundamentals to adapt quickly to any framework or technology.</p>
 </div>
 
 ---
@@ -44,22 +42,82 @@
 
 ### 🖥️ Languages  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,php,cpp" />
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br>JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/><br>PHP
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br>C++
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 🎨 Frontend  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/><br>HTML5
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br>CSS3
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/><br>Bootstrap
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS"/><br>Tailwind
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### ⚙️ Backend  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,express" />
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS"/><br>NestJS
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel"/><br>Laravel
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/><br>Express
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 🗄️ Databases & Tools  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman" />
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>MySQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br>GitHub
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br>Postman
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -67,11 +125,9 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizul-Bitto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&count_private=true" height="170" alt="GitHub Stats" />  
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizul-Bitto&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&currStreakLabel=8B5CF6&sideNums=FFFFFF&sideLabels=8B5CF6&dates=8B5CF6" height="170" alt="GitHub Streak" />  
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizul-Bitto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizul-Bitto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&count_private=true" height="170" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizul-Bitto&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&currStreakLabel=8B5CF6&sideNums=FFFFFF&sideLabels=8B5CF6&dates=8B5CF6" height="170" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizul-Bitto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" height="170" />
 </div>
 
 ---
@@ -113,10 +169,10 @@
 ## 🌐 Connect With Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/faizul-bitto/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:fibhuyanbitto06@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Faizul-Bitto" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://twitter.com/faizul_bitto" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.linkedin.com/in/faizul-bitto/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a>
+  <a href="mailto:fibhuyanbitto06@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" /></a>
+  <a href="https://github.com/Faizul-Bitto" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a>
+  <a href="https://twitter.com/faizul_bitto" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" /></a>
 </div>
 
 ---
