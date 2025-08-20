@@ -19,9 +19,7 @@
 </div>
 
 <div align="center">
-  <blockquote>
     <p><strong>🎯 Passionate Full Stack Developer</strong> with expertise in modern web technologies, eager to build impactful and cutting-edge solutions that make a difference.</p>
-  </blockquote>
 </div>
 
 ### 🎯 **What I'm Currently Up To**
