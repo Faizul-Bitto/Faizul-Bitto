@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <p><strong>🎯 Backend-Focused Developer</strong> passionate about designing clean APIs, scalable architectures, and reliable backend solutions. Currently sharpening advanced backend fundamentals to adapt quickly to any framework or technology.</p>
+  <p><strong>Backend-Focused Developer</strong> passionate about designing clean APIs, scalable architectures, and reliable backend solutions. Currently sharpening advanced backend fundamentals to adapt quickly to any framework or technology.</p>
 </div>
 
 ---
