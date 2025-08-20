@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&height=100&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+Laravel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&height=100&lines=Hi,+my+name+is+Faizul+Bitto;Backend+Developer;Node.js+%7C+NestJS+%7C+Laravel;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views -->
