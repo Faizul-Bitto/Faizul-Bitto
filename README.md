@@ -100,18 +100,18 @@
   </table>
 </div>
 
-### ⚡ Productivity & IDEs  
+### 🗄️ Databases & Tools  
 <div align="center">
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code
-      </td>
-      <td align="center" width="100">
-        <img src="https://avatars.githubusercontent.com/u/127165244?s=200&v=4" width="48" height="48" alt="Cursor IDE"/><br>Cursor
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>MySQL
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br>GitHub
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br>Postman
