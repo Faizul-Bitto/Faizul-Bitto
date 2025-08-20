@@ -108,7 +108,7 @@
         <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="48" height="48" alt="VS Code"/><br>VS Code
       </td>
       <td align="center" width="120">
-  <img src="https://avatars.githubusercontent.com/u/127165244?s=200&v=4" width="48" height="48" alt="Cursor IDE"/><br>Cursor
+  <img src="https://img.utdstc.com/icon/a2c/de1/a2cde158af82ba714c9c50acfb13b930312e231596805f4a1a9d7ec6d8059dba:200" width="48" height="48" alt="Cursor IDE"/><br>Cursor
 </td>
 
     </tr>
