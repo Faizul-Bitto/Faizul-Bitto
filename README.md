@@ -108,7 +108,7 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code
       </td>
       <td align="center" width="120">
-        <img src="https://avatars.githubusercontent.com/u/127165244?s=200&v=4" width="48" height="48" alt="Cursor IDE"/><br>Cursor
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" width="48" height="48" alt="Cursor IDE"/><br>Cursor
       </td>
     </tr>
   </table>
