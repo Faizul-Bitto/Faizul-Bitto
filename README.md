@@ -5,7 +5,7 @@
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizul-bitto&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=faizul-bitto&label=👀+Profile+views&color=E879F9&style=for-the-badge" />
 </div>
 
 ---
@@ -13,26 +13,28 @@
 ## 🚀 About Me  
 
 <div align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="320" alt="Coding GIF"/>
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="280" alt="Coding GIF"/>
 </div>
 
-<div align="center">
-  <p><strong>🎯 Backend-Focused Software Engineer</strong> passionate about designing clean APIs, scalable architectures, and reliable backend solutions. Currently sharpening advanced backend fundamentals to adapt quickly to any framework or technology.</p>
-</div>
+<p align="center">
+  <b>🎯 Backend-Focused Software Engineer</b> <br/>
+  Obsessed with <i>clean APIs</i>, <i>scalable architectures</i>, and <i>reliable backend solutions</i>.  
+  Always leveling up to adapt fast to any framework ⚡
+</p>
 
 ---
 
-## 🎯 What I'm Doing  
+## 🎯 Current Focus  
 
 <div align="center">
 
 | 🔭 Working On | 🌱 Learning |
 |---------------|-------------|
-| Backend Development & APIs | Advanced Backend Fundamentals |
+| Backend APIs & Dev | Advanced Backend Fundamentals |
 
 | 💬 Ask Me About | 🎨 Passionate About |
 |-----------------|----------------------|
-| Node.js, NestJS, Laravel | Clean Architecture, API Design, Scalable Systems |
+| Node.js, NestJS, Laravel | Clean Architecture, Scalable Systems |
 
 </div>
 
@@ -40,84 +42,32 @@
 
 ## 🛠️ Tech Stack  
 
-### 🖥️ Languages  
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br>JavaScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br>Python
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/><br>PHP
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br>C++
-      </td>
-    </tr>
-  </table>
-</div>
 
-### 🎨 Frontend  
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/><br>HTML5
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br>CSS3
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/><br>Bootstrap
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS"/><br>Tailwind
-      </td>
-    </tr>
-  </table>
-</div>
+**Languages**  
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![Python](https://skillicons.dev/icons?i=python) 
+![PHP](https://skillicons.dev/icons?i=php) 
+![C++](https://skillicons.dev/icons?i=cpp)  
 
-### ⚙️ Backend  
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS"/><br>NestJS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel"/><br>Laravel
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/><br>Express
-      </td>
-    </tr>
-  </table>
-</div>
+**Frontend**  
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css) 
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
+![Tailwind](https://skillicons.dev/icons?i=tailwind)  
 
-### 🗄️ Databases & Tools  
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>MySQL
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br>GitHub
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br>Postman
-      </td>
-    </tr>
-  </table>
+**Backend**  
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![NestJS](https://skillicons.dev/icons?i=nestjs) 
+![Laravel](https://skillicons.dev/icons?i=laravel) 
+![Express](https://skillicons.dev/icons?i=express)  
+
+**Databases & Tools**  
+![MySQL](https://skillicons.dev/icons?i=mysql) 
+![Git](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github) 
+![Postman](https://skillicons.dev/icons?i=postman)  
+
 </div>
 
 ---
@@ -125,9 +75,9 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizul-Bitto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&count_private=true" height="170" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizul-Bitto&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&currStreakLabel=8B5CF6&sideNums=FFFFFF&sideLabels=8B5CF6&dates=8B5CF6" height="170" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizul-Bitto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizul-Bitto&show_icons=true&theme=tokyonight&hide_border=true&title_color=E879F9&icon_color=E879F9&text_color=FFFFFF&count_private=true" height="170" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizul-Bitto&theme=tokyonight&hide_border=true&ring=E879F9&fire=E879F9&currStreakLabel=E879F9&sideLabels=E879F9" height="170" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizul-Bitto&layout=compact&theme=tokyonight&hide_border=true&title_color=E879F9&text_color=FFFFFF&langs_count=8" height="170" />
 </div>
 
 ---
@@ -135,7 +85,7 @@
 ## 🏆 Achievements  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizul-Bitto&theme=discord&no-frame=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizul-Bitto&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -143,7 +93,7 @@
 ## 🔝 Top Contributed Repositories  
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Faizul-Bitto&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repositories"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Faizul-Bitto&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 </div>
 
 ---
@@ -151,7 +101,7 @@
 ## 💡 Developer Quote  
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
@@ -160,7 +110,7 @@
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1cZZoqCzeIqE54gmi5TFYW1wSeXUT1t0X/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_My_Resume-FF6C37?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/📄_View_My_Resume-E879F9?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </div>
 
@@ -169,17 +119,17 @@
 ## 🌐 Connect With Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/faizul-bitto/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a>
-  <a href="mailto:fibhuyanbitto06@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" /></a>
-  <a href="https://github.com/Faizul-Bitto" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a>
+  <a href="https://www.linkedin.com/in/faizul-bitto/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+  <a href="mailto:fibhuyanbitto06@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
+  <a href="https://github.com/Faizul-Bitto" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=60&lines=Thanks+for+visiting!+😊;Let's+build+something+amazing+together+🚀;Excited+to+collaborate+on+awesome+projects+💻" alt="Thank You"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=E879F9&center=true&vCenter=true&width=700&lines=✨+Thanks+for+visiting!+;🚀+Let’s+build+something+amazing+together!;💻+Excited+to+collaborate+on+awesome+projects!+" alt="Thank You"/>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Faizul%20Bitto-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Faizul%20Bitto-E879F9?style=for-the-badge" />
 </div>
