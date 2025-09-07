@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <p><strong>🎯 Backend-Focused Developer</strong> passionate about designing clean APIs, scalable architectures, and reliable backend solutions. Currently sharpening advanced backend fundamentals to adapt quickly to any framework or technology.</p>
+  <p><strong>🎯 Backend-Focused Software Engineer</strong> passionate about designing clean APIs, scalable architectures, and reliable backend solutions. Currently sharpening advanced backend fundamentals to adapt quickly to any framework or technology.</p>
 </div>
 
 ---
@@ -172,7 +172,6 @@
   <a href="https://www.linkedin.com/in/faizul-bitto/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a>
   <a href="mailto:fibhuyanbitto06@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" /></a>
   <a href="https://github.com/Faizul-Bitto" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a>
-  <a href="https://twitter.com/faizul_bitto" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" /></a>
 </div>
 
 ---
