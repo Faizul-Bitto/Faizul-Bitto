@@ -25,20 +25,56 @@
   <table>
     <tr>
       <td align="center">
-        <h2>🎯 Backend-Focused Software Engineer</h2>
-        <p><strong>Passionate about crafting <em>clean APIs</em>, building <em>scalable architectures</em>, and delivering <em>reliable backend solutions</em></strong></p>
-        <br/>
-        <div align="left">
-          <h3>✨ What I Do:</h3>
-          <ul>
-            <li>🔥 <strong>Backend Development</strong> - Building robust server-side applications</li>
-            <li>⚡ <strong>API Design</strong> - Creating efficient and scalable REST APIs</li>
-            <li>🌟 <strong>Database Architecture</strong> - Designing optimized data structures</li>
-            <li>🚀 <strong>System Integration</strong> - Connecting complex systems seamlessly</li>
-          </ul>
+        <div align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E879F9&center=true&vCenter=true&width=700&lines=🎯+Backend-Focused+Software+Engineer;💫+Building+Amazing+Digital+Solutions;✨+Passionate+About+Clean+Code" alt="Role Typing" />
         </div>
+        
         <br/>
-        <p><em>"Always leveling up to adapt fast to any framework and technology!"</em> ⚡</p>
+        
+        <div style="background: linear-gradient(135deg, rgba(232, 121, 249, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(232, 121, 249, 0.3);">
+          <p style="color: #c9d1d9; font-size: 1.2em; margin: 15px 0; line-height: 1.6;">
+            <strong>Passionate about crafting <span style="color: #ffd700;">✨ clean APIs</span>, building <span style="color: #ffd700;">🏗️ scalable architectures</span>, and delivering <span style="color: #ffd700;">🔧 reliable backend solutions</span></strong>
+          </p>
+        </div>
+        
+        <div align="left" style="margin: 25px 0;">
+          <h3 style="color: #E879F9; display: flex; align-items: center;">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" style="margin-right: 8px;"/>
+            What I Do:
+          </h3>
+          
+          <div style="margin: 15px 0; padding: 12px; background: rgba(255, 107, 107, 0.1); border-left: 4px solid #ff6b6b; border-radius: 8px;">
+            <span style="font-size: 1.3em;">🔥</span>
+            <strong style="color: #4ecdc4;"> Backend Development</strong>
+            <br/><span style="color: #c9d1d9; margin-left: 25px; font-size: 0.95em;">Building robust server-side applications with modern frameworks</span>
+          </div>
+          
+          <div style="margin: 15px 0; padding: 12px; background: rgba(255, 217, 61, 0.1); border-left: 4px solid #ffd93d; border-radius: 8px;">
+            <span style="font-size: 1.3em;">⚡</span>
+            <strong style="color: #4ecdc4;"> API Design</strong>
+            <br/><span style="color: #c9d1d9; margin-left: 25px; font-size: 0.95em;">Creating efficient and scalable REST APIs</span>
+          </div>
+          
+          <div style="margin: 15px 0; padding: 12px; background: rgba(168, 230, 207, 0.1); border-left: 4px solid #a8e6cf; border-radius: 8px;">
+            <span style="font-size: 1.3em;">🌟</span>
+            <strong style="color: #4ecdc4;"> Database Architecture</strong>
+            <br/><span style="color: #c9d1d9; margin-left: 25px; font-size: 0.95em;">Designing optimized data structures and relationships</span>
+          </div>
+          
+          <div style="margin: 15px 0; padding: 12px; background: rgba(255, 139, 148, 0.1); border-left: 4px solid #ff8b94; border-radius: 8px;">
+            <span style="font-size: 1.3em;">🚀</span>
+            <strong style="color: #4ecdc4;"> System Integration</strong>
+            <br/><span style="color: #c9d1d9; margin-left: 25px; font-size: 0.95em;">Connecting complex systems seamlessly</span>
+          </div>
+        </div>
+        
+        <div style="background: linear-gradient(90deg, #E879F9, #667eea, #764ba2); padding: 2px; border-radius: 12px; margin-top: 25px;">
+          <div style="background: #0d1117; border-radius: 10px; padding: 18px; text-align: center;">
+            <p style="color: #ffd700; font-size: 1.15em; margin: 0; font-style: italic; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">
+              💫 "Always leveling up to adapt fast to any framework and technology!" ⚡
+            </p>
+          </div>
+        </div>
       </td>
     </tr>
   </table>
