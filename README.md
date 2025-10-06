@@ -99,7 +99,50 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faizul-Bitto&show_icons=true&theme=tokyonight&hide_border=true&title_color=E879F9&icon_color=E879F9&text_color=FFFFFF&count_private=true" height="170" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizul-Bitto&theme=tokyonight&hide_border=true&ring=E879F9&fire=E879F9&currStreakLabel=E879F9&sideLabels=E879F9" height="170" />  
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizul-Bitto&layout=compact&theme=tokyonight&hide_border=true&title_color=E879F9&text_color=FFFFFF&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faizul-Bitto&theme=tokyonight&hide_border=true&title_color=E879F9&text_color=FFFFFF" height="170" />
+</div>
+
+<!-- Daily Contribution Graph -->
+<div align="center">
+  <h3>📈 Daily Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizul-Bitto&theme=tokyo-night&hide_border=true&color=E879F9&line=E879F9&point=FFFFFF&area=true&hide_title=true" width="100%" />
+</div>
+
+<!-- Detailed GitHub Analytics -->
+<div align="center">
+  <h3>📊 Advanced GitHub Analytics</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizul-Bitto&theme=tokyo_night" width="100%" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizul-Bitto&theme=tokyo_night" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizul-Bitto&theme=tokyo_night" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizul-Bitto&theme=tokyo_night" width="100%" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizul-Bitto&theme=tokyo_night" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- GitHub Contribution Snake Animation -->
+<div align="center">
+  <h3>🐍 Contribution Snake Game</h3>
+  <img src="https://raw.githubusercontent.com/Faizul-Bitto/Faizul-Bitto/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
 </div>
 
 ---
