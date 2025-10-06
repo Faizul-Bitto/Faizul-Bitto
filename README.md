@@ -92,7 +92,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="60%">
         <h3>💬 Ask Me About</h3>
         <br/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -105,7 +105,7 @@
         <br/><br/>
         <img src="https://img.shields.io/badge/Database_Design-4ecdc4?style=for-the-badge" />
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="60%">
         <h3>🎨 Passionate About</h3>
         <br/>
         <img src="https://img.shields.io/badge/Clean_Architecture-667eea?style=for-the-badge" />
