@@ -94,26 +94,27 @@
     <tr>
       <td align="center" width="50%">
         <h3>💬 Ask Me About</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/✨-API%20Design-E879F9?style=flat-square" />
-          <img src="https://img.shields.io/badge/📊-Database%20Design-4ecdc4?style=flat-square" />
-        </p>
+        <br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/API_Design-E879F9?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Database_Design-4ecdc4?style=for-the-badge" />
       </td>
       <td align="center" width="50%">
         <h3>🎨 Passionate About</h3>
-        <p>
-          <img src="https://img.shields.io/badge/🏗️-Clean%20Architecture-667eea?style=for-the-badge" /><br/>
-          <img src="https://img.shields.io/badge/🚀-Scalable%20Systems-764ba2?style=for-the-badge" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/✨-Code%20Quality-a8e6cf?style=flat-square" />
-          <img src="https://img.shields.io/badge/🌟-Best%20Practices-ff8b94?style=flat-square" />
-        </p>
+        <br/>
+        <img src="https://img.shields.io/badge/Clean_Architecture-667eea?style=for-the-badge" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Scalable_Systems-764ba2?style=for-the-badge" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Code_Quality-a8e6cf?style=for-the-badge" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Best_Practices-ff8b94?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Performance-ffd93d?style=for-the-badge" />
       </td>
     </tr>
   </table>
@@ -125,27 +126,34 @@
 
 <div align="center">
 
-**Languages**  
+**Languages**
+
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![PHP](https://skillicons.dev/icons?i=php)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
-![PHP](https://skillicons.dev/icons?i=php)
 
-**Frontend**  
+**Frontend**
+
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-**Backend**  
+**Backend**
+
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Express](https://skillicons.dev/icons?i=express)
 
-**Databases & Tools**  
+**Databases**
+
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+
+**Tools**
+
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Postman](https://skillicons.dev/icons?i=postman)
