@@ -145,9 +145,9 @@
 **Backend**
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=expressjs)
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
-![Express](https://skillicons.dev/icons?i=express)
 
 **Databases**
 
