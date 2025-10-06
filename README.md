@@ -25,65 +25,47 @@
   <table>
     <tr>
       <td align="center">
-        <div align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E879F9&center=true&vCenter=true&width=700&lines=🎯+Backend-Focused+Software+Engineer;💫+Building+Amazing+Digital+Solutions;✨+Passionate+About+Clean+Code" alt="Role Typing" />
-        </div>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=800&lines=🎯+Backend-Focused+Software+Engineer;💫+Building+Amazing+Solutions;✨+Clean+Code+Enthusiast" alt="Typing Animation" />
+        
+        <br/><br/>
+        
+        <p><strong>💫 Passionate about crafting ✨ <em>clean APIs</em>, building 🏗️ <em>scalable architectures</em>, and delivering 🔧 <em>reliable backend solutions</em></strong></p>
         
         <br/>
         
-        <p align="center">
-          <strong>💫 Passionate about crafting <span style="color: #ffd700;">✨ clean APIs</span>, building <span style="color: #ffd700;">🏗️ scalable architectures</span>, and delivering <span style="color: #ffd700;">🔧 reliable backend solutions</span></strong>
-        </p>
-        
-        <br/>
+        <h3 align="left">🛠️ What I Do:</h3>
         
         <div align="left">
-          <h3>🛠️ What I Do:</h3>
-          
-          <blockquote>
-            <p>
-              🔥 <strong>Backend Development</strong><br/>
-              <em>Building robust server-side applications with modern frameworks</em>
-            </p>
-          </blockquote>
-          
-          <blockquote>
-            <p>
-              ⚡ <strong>API Design</strong><br/>
-              <em>Creating efficient and scalable REST APIs</em>
-            </p>
-          </blockquote>
-          
-          <blockquote>
-            <p>
-              🌟 <strong>Database Architecture</strong><br/>
-              <em>Designing optimized data structures and relationships</em>
-            </p>
-          </blockquote>
-          
-          <blockquote>
-            <p>
-              🚀 <strong>System Integration</strong><br/>
-              <em>Connecting complex systems seamlessly</em>
-            </p>
-          </blockquote>
+          <table>
+            <tr>
+              <td>🔥</td>
+              <td><strong>Backend Development</strong></td>
+              <td>Building robust server-side applications</td>
+            </tr>
+            <tr>
+              <td>⚡</td>
+              <td><strong>API Design</strong></td>
+              <td>Creating efficient and scalable REST APIs</td>
+            </tr>
+            <tr>
+              <td>🌟</td>
+              <td><strong>Database Architecture</strong></td>
+              <td>Designing optimized data structures</td>
+            </tr>
+            <tr>
+              <td>🚀</td>
+              <td><strong>System Integration</strong></td>
+              <td>Connecting complex systems seamlessly</td>
+            </tr>
+          </table>
         </div>
         
         <br/>
         
         <div align="center">
-          <table>
-            <tr>
-              <td align="center">
-                <img src="https://img.shields.io/badge/💫_Philosophy-Always%20Learning%20%26%20Growing-E879F9?style=for-the-badge&labelColor=0d1117" />
-              </td>
-            </tr>
-            <tr>
-              <td align="center">
-                <em>⚡ "Always leveling up to adapt fast to any framework and technology!" 💫</em>
-              </td>
-            </tr>
-          </table>
+          <img src="https://img.shields.io/badge/💫_Motto-Always%20Learning%20%26%20Growing-E879F9?style=for-the-badge&logoColor=white" />
+          <br/><br/>
+          <em>⚡ "Always leveling up to adapt fast to any framework and technology!" 💫</em>
         </div>
       </td>
     </tr>
