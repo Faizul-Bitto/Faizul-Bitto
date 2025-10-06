@@ -49,7 +49,7 @@
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E879F9&center=true&vCenter=true&width=800&lines=🚀+Currently+Building+Backend+Excellence;🌱+Always+Learning+%26+Growing;✨+Focused+on+Innovation+%26+Quality" alt="Current Focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E879F9&center=true&vCenter=true&width=800&lines=🚀+Currently+Building+Backend+Excellence;🌱+Always+Learning+%26+Growing" alt="Current Focus" />
 </div>
 
 <br/>
@@ -57,7 +57,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" valign="top">
         <div>
           <h2>🔭 Working On</h2>
           <img src="https://img.shields.io/badge/💻-Backend%20APIs%20%26%20Development-E879F9?style=for-the-badge&labelColor=0d1117&logoColor=white" />
@@ -65,9 +65,10 @@
           <p>🏗️ Building robust server-side solutions</p>
           <p>⚡ Designing scalable API architectures</p>
           <p>🔧 Optimizing database performance</p>
+          <p>🚀 Implementing best practices</p>
         </div>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="50%" valign="top">
         <div>
           <h2>🌱 Learning</h2>
           <img src="https://img.shields.io/badge/📚-Advanced%20Backend%20Fundamentals-4ecdc4?style=for-the-badge&labelColor=0d1117&logoColor=white" />
@@ -75,6 +76,7 @@
           <p>🚀 Advanced system design patterns</p>
           <p>🌐 Microservices architecture</p>
           <p>📊 Performance optimization techniques</p>
+          <p>💫 Cloud computing fundamentals</p>
         </div>
       </td>
     </tr>
@@ -92,7 +94,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="60%">
+      <td align="center" width="50%">
         <h3>💬 Ask Me About</h3>
         <br/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -105,7 +107,7 @@
         <br/><br/>
         <img src="https://img.shields.io/badge/Database_Design-4ecdc4?style=for-the-badge" />
       </td>
-      <td align="center" width="60%">
+      <td align="center" width="50%">
         <h3>🎨 Passionate About</h3>
         <br/>
         <img src="https://img.shields.io/badge/Clean_Architecture-667eea?style=for-the-badge" />
