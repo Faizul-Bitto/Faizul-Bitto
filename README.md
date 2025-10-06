@@ -1,6 +1,6 @@
 <!-- Beautiful Animated Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Faizul%20Islam%20Bhuiyan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%7C%20API%20Architect%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=280&section=header&text=Faizul%20Islam%20Bhuiyan&fontSize=45&fontColor=ffffff&animation=scaleIn&fontAlignY=40&desc=Backend%20Engineer%20%E2%9A%A1%20Building%20Amazing%20APIs&descAlignY=55&descAlign=50" />
 </div>
 
 <!-- Typing SVG Header -->
@@ -141,5 +141,5 @@
 
 <!-- Beautiful Animated Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=scaleIn" />
 </div>
