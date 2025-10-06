@@ -1,6 +1,6 @@
 <!-- Beautiful Ocean Wave Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Faizul%20Islam%20Bhuiyan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer&descAlignY=51&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Faizul%20Islam%20Bhuiyan&fontSize=50&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer&descAlignY=51&descAlign=50" />
 </div>
 
 <!-- Typing SVG Header -->
@@ -141,5 +141,5 @@
 
 <!-- Beautiful Ocean Wave Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&animation=scaleIn" />
 </div>
