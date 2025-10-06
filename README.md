@@ -25,48 +25,20 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=800&lines=🎯+Backend-Focused+Software+Engineer;💫+Building+Amazing+Solutions;✨+Clean+Code+Enthusiast" alt="Typing Animation" />
-        
-        <br/><br/>
-        
-        <p><strong>💫 Passionate about crafting ✨ <em>clean APIs</em>, building 🏗️ <em>scalable architectures</em>, and delivering 🔧 <em>reliable backend solutions</em></strong></p>
-        
+        <h2>🎯 Backend-Focused Software Engineer</h2>
+        <p><strong>Passionate about crafting <em>clean APIs</em>, building <em>scalable architectures</em>, and delivering <em>reliable backend solutions</em></strong></p>
         <br/>
-        
-        <h3 align="left">🛠️ What I Do:</h3>
-        
         <div align="left">
-          <table>
-            <tr>
-              <td>🔥</td>
-              <td><strong>Backend Development</strong></td>
-              <td>Building robust server-side applications</td>
-            </tr>
-            <tr>
-              <td>⚡</td>
-              <td><strong>API Design</strong></td>
-              <td>Creating efficient and scalable REST APIs</td>
-            </tr>
-            <tr>
-              <td>🌟</td>
-              <td><strong>Database Architecture</strong></td>
-              <td>Designing optimized data structures</td>
-            </tr>
-            <tr>
-              <td>🚀</td>
-              <td><strong>System Integration</strong></td>
-              <td>Connecting complex systems seamlessly</td>
-            </tr>
-          </table>
+          <h3>✨ What I Do:</h3>
+          <ul>
+            <li>🔥 <strong>Backend Development</strong> - Building robust server-side applications</li>
+            <li>⚡ <strong>API Design</strong> - Creating efficient and scalable REST APIs</li>
+            <li>🌟 <strong>Database Architecture</strong> - Designing optimized data structures</li>
+            <li>🚀 <strong>System Integration</strong> - Connecting complex systems seamlessly</li>
+          </ul>
         </div>
-        
         <br/>
-        
-        <div align="center">
-          <img src="https://img.shields.io/badge/💫_Motto-Always%20Learning%20%26%20Growing-E879F9?style=for-the-badge&logoColor=white" />
-          <br/><br/>
-          <em>⚡ "Always leveling up to adapt fast to any framework and technology!" 💫</em>
-        </div>
+        <p><em>"Always leveling up to adapt fast to any framework and technology!"</em> ⚡</p>
       </td>
     </tr>
   </table>
