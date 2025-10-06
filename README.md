@@ -1,3 +1,8 @@
+<!-- Beautiful Header with Wave Animation -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Faizul%20Islam%20Bhuiyan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer%20%7C%20API%20Architect%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50" />
+</div>
+
 <!-- Typing SVG Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=E879F9&center=true&vCenter=true&width=1000&height=80&lines=👋+Hey,+I'm+Faizul+Islam+Bhuiyan+(Bitto);🔥+Backend-Focused+Software+Engineer;🚀+Node.js+%7C+NestJS+%7C+Laravel;✨+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -132,4 +137,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Faizul%20Bitto-E879F9?style=for-the-badge" />
+</div>
+
+<!-- Beautiful Footer Wave -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer" />
 </div>
