@@ -133,6 +133,7 @@
 ![PHP](https://skillicons.dev/icons?i=php)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
+![Go](https://skillicons.dev/icons?i=go)
 
 **Frontend**
 
