@@ -49,7 +49,7 @@
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=🔭+Working+on+Backend+APIs+%26+Dev;🌱+Learning+Advanced+Backend+Fundamentals" alt="Current Focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E879F9&center=true&vCenter=true&width=800&lines=🚀+Currently+Building+Backend+Excellence;🌱+Always+Learning+%26+Growing;✨+Focused+on+Innovation+%26+Quality" alt="Current Focus" />
 </div>
 
 <br/>
@@ -58,19 +58,33 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🔭_Currently_Working_On-Backend%20APIs%20%26%20Development-E879F9?style=for-the-badge&logoColor=white" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/💪_Focus_Area-Server%20Side%20Solutions-667eea?style=flat-square" />
-        <img src="https://img.shields.io/badge/⚡_Priority-API%20Architecture-764ba2?style=flat-square" />
+        <div>
+          <h2>🔭 Working On</h2>
+          <img src="https://img.shields.io/badge/💻-Backend%20APIs%20%26%20Development-E879F9?style=for-the-badge&labelColor=0d1117&logoColor=white" />
+          <br/><br/>
+          <p>🏗️ Building robust server-side solutions</p>
+          <p>⚡ Designing scalable API architectures</p>
+          <p>🔧 Optimizing database performance</p>
+        </div>
       </td>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🌱_Currently_Learning-Advanced%20Backend%20Fundamentals-4ecdc4?style=for-the-badge&logoColor=white" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/📚_Study_Focus-System%20Design-a8e6cf?style=flat-square" />
-        <img src="https://img.shields.io/badge/🚀_Growth_Area-Scalability-ff8b94?style=flat-square" />
+        <div>
+          <h2>🌱 Learning</h2>
+          <img src="https://img.shields.io/badge/📚-Advanced%20Backend%20Fundamentals-4ecdc4?style=for-the-badge&labelColor=0d1117&logoColor=white" />
+          <br/><br/>
+          <p>🚀 Advanced system design patterns</p>
+          <p>🌐 Microservices architecture</p>
+          <p>📊 Performance optimization techniques</p>
+        </div>
       </td>
     </tr>
   </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
 </div>
 
 <br/>
@@ -80,20 +94,26 @@
     <tr>
       <td align="center" width="50%">
         <h3>💬 Ask Me About</h3>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/API%20Design-E879F9?style=flat" />
-        <img src="https://img.shields.io/badge/Database%20Design-4ecdc4?style=flat" />
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/✨-API%20Design-E879F9?style=flat-square" />
+          <img src="https://img.shields.io/badge/📊-Database%20Design-4ecdc4?style=flat-square" />
+        </p>
       </td>
       <td align="center" width="50%">
         <h3>🎨 Passionate About</h3>
-        <img src="https://img.shields.io/badge/Clean%20Architecture-667eea?style=flat" />
-        <img src="https://img.shields.io/badge/Scalable%20Systems-764ba2?style=flat" />
-        <br/>
-        <img src="https://img.shields.io/badge/Code%20Quality-a8e6cf?style=flat" />
-        <img src="https://img.shields.io/badge/Best%20Practices-ff8b94?style=flat" />
+        <p>
+          <img src="https://img.shields.io/badge/🏗️-Clean%20Architecture-667eea?style=for-the-badge" /><br/>
+          <img src="https://img.shields.io/badge/🚀-Scalable%20Systems-764ba2?style=for-the-badge" />
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/✨-Code%20Quality-a8e6cf?style=flat-square" />
+          <img src="https://img.shields.io/badge/🌟-Best%20Practices-ff8b94?style=flat-square" />
+        </p>
       </td>
     </tr>
   </table>
@@ -106,10 +126,11 @@
 <div align="center">
 
 **Languages**  
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
 ![PHP](https://skillicons.dev/icons?i=php)
-![C++](https://skillicons.dev/icons?i=cpp)
 
 **Frontend**  
 ![HTML](https://skillicons.dev/icons?i=html)
