@@ -1,6 +1,6 @@
-<!-- Beautiful Animated Header -->
+<!-- Beautiful Full-Screen Animated Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=280&section=header&text=Faizul%20Islam%20Bhuiyan&fontSize=45&fontColor=ffffff&animation=scaleIn&fontAlignY=40&desc=Backend%20Engineer%20%E2%9A%A1%20Building%20Amazing%20APIs&descAlignY=55&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Faizul%20Islam%20Bhuiyan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer%20%7C%20API%20Architect%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50" />
 </div>
 
 <!-- Typing SVG Header -->
@@ -139,7 +139,7 @@
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Faizul%20Bitto-E879F9?style=for-the-badge" />
 </div>
 
-<!-- Beautiful Animated Footer -->
+<!-- Beautiful Full-Screen Animated Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=scaleIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=fadeIn" />
 </div>
