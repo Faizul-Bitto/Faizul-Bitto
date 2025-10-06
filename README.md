@@ -103,7 +103,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizul-Bitto&layout=compact&theme=tokyonight&hide_border=true&title_color=E879F9&text_color=FFFFFF&langs_count=8" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faizul-Bitto&theme=tokyonight&hide_border=true&title_color=E879F9&text_color=FFFFFF" height="170" />
 </div>
 
 <!-- Daily Contribution Graph -->
