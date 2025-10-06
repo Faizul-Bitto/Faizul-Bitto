@@ -102,11 +102,14 @@
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
         <br/><br/>
         <img src="https://img.shields.io/badge/API_Design-E879F9?style=for-the-badge" />
+        <br/><br/>
         <img src="https://img.shields.io/badge/Database_Design-4ecdc4?style=for-the-badge" />
       </td>
       <td align="center" width="50%">
         <h3>🎨 Passionate About</h3>
         <br/>
+        <img src="https://img.shields.io/badge/Clean_Architecture-667eea?style=for-the-badge&logo=google&logoColor=white" />
+        <br/><br/>
         <img src="https://img.shields.io/badge/Clean_Architecture-667eea?style=for-the-badge" />
         <br/><br/>
         <img src="https://img.shields.io/badge/Scalable_Systems-764ba2?style=for-the-badge" />
@@ -114,6 +117,7 @@
         <img src="https://img.shields.io/badge/Code_Quality-a8e6cf?style=for-the-badge" />
         <br/><br/>
         <img src="https://img.shields.io/badge/Best_Practices-ff8b94?style=for-the-badge" />
+        <br/><br/>
         <img src="https://img.shields.io/badge/Performance-ffd93d?style=for-the-badge" />
       </td>
     </tr>
