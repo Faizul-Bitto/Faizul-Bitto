@@ -114,25 +114,25 @@
 <!-- Detailed GitHub Analytics -->
 <div align="center">
   <h3>📊 Advanced GitHub Analytics</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizul-Bitto&theme=tokyo_night" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizul-Bitto&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizul-Bitto&theme=tokyo_night" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizul-Bitto&theme=tokyonight" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizul-Bitto&theme=tokyo_night" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizul-Bitto&theme=tokyonight" width="100%" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizul-Bitto&theme=tokyo_night" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizul-Bitto&theme=tokyonight" width="100%" />
       </td>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizul-Bitto&theme=tokyo_night" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizul-Bitto&theme=tokyonight" width="100%" />
       </td>
     </tr>
   </table>
@@ -141,7 +141,11 @@
 <!-- GitHub Contribution Snake Animation -->
 <div align="center">
   <h3>🐍 Contribution Snake Game</h3>
-  <img src="https://raw.githubusercontent.com/Faizul-Bitto/Faizul-Bitto/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
