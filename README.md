@@ -95,7 +95,7 @@
   <table>
     <tr>
       <td align="center" width="50%" valign="top">
-        <h3>💬 Ask Me About</h3>
+        <h3>💬 Ask Me</h3>
         <br/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
         <br/><br/>
@@ -108,7 +108,7 @@
         <img src="https://img.shields.io/badge/Database_Design-4ecdc4?style=for-the-badge" />
       </td>
       <td align="center" width="50%" valign="top">
-        <h3>🎨 Passionate About</h3>
+        <h3>🎨 Passionate</h3>
         <br/>
         <img src="https://img.shields.io/badge/Clean_Architecture-667eea?style=for-the-badge" />
         <br/><br/>
