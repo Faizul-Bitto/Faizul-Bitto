@@ -1,6 +1,6 @@
 <!-- Beautiful Ocean Wave Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Faizul%20Islam%20Bhuiyan%20(Bitto)&fontSize=50&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer&descAlignY=51&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Faizul%20Islam%20Bhuiyan&fontSize=50&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer&descAlignY=51&descAlign=50" />
 </div>
 
 <!-- Typing SVG Header -->
@@ -18,14 +18,31 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="280" alt="Coding GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="320" alt="Beautiful Coding Animation"/>
 </div>
 
-<p align="center">
-  <b>🎯 Backend-Focused Software Engineer</b> <br/>
-  Obsessed with <i>clean APIs</i>, <i>scalable architectures</i>, and <i>reliable backend solutions</i>.  
-  Always leveling up to adapt fast to any framework ⚡
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h2>🎯 Backend-Focused Software Engineer</h2>
+        <p><strong>Passionate about crafting <em>clean APIs</em>, building <em>scalable architectures</em>, and delivering <em>reliable backend solutions</em></strong></p>
+        <br/>
+        <div align="left">
+          <h3>✨ What I Do:</h3>
+          <ul>
+            <li>🔥 <strong>Backend Development</strong> - Building robust server-side applications</li>
+            <li>⚡ <strong>API Design</strong> - Creating efficient and scalable REST APIs</li>
+            <li>🌟 <strong>Database Architecture</strong> - Designing optimized data structures</li>
+            <li>🚀 <strong>System Integration</strong> - Connecting complex systems seamlessly</li>
+          </ul>
+        </div>
+        <br/>
+        <p><em>"Always leveling up to adapt fast to any framework and technology!"</em> ⚡</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
