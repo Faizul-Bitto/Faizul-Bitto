@@ -1,192 +1,172 @@
 <!-- Beautiful Ocean Wave Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Faizul%20Islam%20Bhuiyan&fontSize=50&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer&descAlignY=51&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=260&section=header&text=Faizul%20Islam%20Bhuiyan&fontSize=48&fontColor=ffffff&animation=scaleIn&desc=Backend-Focused%20Software%20Engineer&descAlignY=50&descAlign=50" />
 </div>
 
-<!-- Typing SVG Header -->
+<!-- Hero Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=E879F9&center=true&vCenter=true&width=1000&height=80&lines=👋+Hey,+I'm+Faizul+Islam+Bhuiyan+(Bitto);🔥+Backend-Focused+Software+Engineer;🚀+Node.js+%7C+NestJS+%7C+Laravel;✨+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <div style="display:inline-block;padding:36px 48px;border-radius:28px;background:linear-gradient(135deg,#312E81 0%,#6D28D9 45%,#9333EA 68%,#DB2777 100%);color:#ffffff;max-width:860px;box-shadow:0 25px 45px rgba(99,102,241,0.25);text-align:center;">
+    <h1 style="font-size:44px;margin:0 0 10px;">Faizul Islam Bhuiyan (Bitto)</h1>
+    <p style="font-size:22px;margin:0 0 20px;">Backend-Focused Software Engineer · Node.js | NestJS | Laravel</p>
+    <p style="font-size:16px;margin:0 0 24px;line-height:1.6;opacity:0.92;">
+      ⚙️ Building resilient APIs · ��� Designing scalable architectures · ��� Driving reliable integrations
+    </p>
+    <p style="font-size:15px;margin:0 0 30px;opacity:0.85;">
+      ��� Dhaka, Bangladesh &nbsp;•&nbsp; ✉️ <a href="mailto:fibhuyanbitto06@gmail.com" style="color:#FDE68A;text-decoration:none;">fibhuyanbitto06@gmail.com</a> &nbsp;•&nbsp; ��� Open to backend & platform collaborations
+    </p>
+    <div style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;">
+      <a href="https://drive.google.com/file/d/1FpPBRC-P7lQJUfcGYzRdNtxuJCCDd2f_/view?usp=drive_link" target="_blank" style="display:inline-block;padding:14px 30px;border-radius:999px;background:rgba(253,224,255,0.15);border:1px solid rgba(255,255,255,0.4);color:#ffffff;font-size:16px;font-weight:600;text-decoration:none;backdrop-filter:blur(6px);box-shadow:0 12px 30px rgba(219,39,119,0.35);">
+        ��� View Résumé
+      </a>
+      <a href="https://www.linkedin.com/in/faizul-bitto/" target="_blank" style="display:inline-block;padding:14px 30px;border-radius:999px;background:rgba(209,250,229,0.18);border:1px solid rgba(255,255,255,0.35);color:#ffffff;font-size:16px;font-weight:600;text-decoration:none;backdrop-filter:blur(6px);box-shadow:0 12px 30px rgba(52,211,153,0.3);">
+        ��� Let's Connect
+      </a>
+    </div>
+  </div>
 </div>
 
-<!-- Profile Views -->
+<br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizul-bitto&label=👀+Profile+views&color=E879F9&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=faizul-bitto&label=Profile%20Visits&color=6D28D9&style=flat-square" alt="Profile views" />
 </div>
 
 ---
 
-## 🚀 About Me
+## Snapshot
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="300" alt="Coding Animation"/>
-</div>
+- ��� Backend-first engineer crafting clean, maintainable services with Node.js (NestJS) and Laravel.
+- �� Experienced in API lifecycle ownership: discovery, design, delivery, observability.
+- ��� Passionate about database architecture, system integration, and performance tuning.
+- ��� Currently exploring microservices patterns, cloud-native tooling, and platform automation.
+
+---
+
+## Core Pillars
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <h2>🎯 Backend-Focused Software Engineer</h2>
-        <p><strong>Passionate about crafting <em>clean APIs</em>, building <em>scalable architectures</em>, and delivering <em>reliable backend solutions</em></strong></p>
-        <br/>
-        <div align="left">
-          <h3>✨ What I Do:</h3>
-          <ul>
-            <li>🔥 <strong>Backend Development</strong> - Building robust server-side applications</li>
-            <li>⚡ <strong>API Design</strong> - Creating efficient and scalable REST APIs</li>
-            <li>🌟 <strong>Database Architecture</strong> - Designing optimized data structures</li>
-            <li>🚀 <strong>System Integration</strong> - Connecting complex systems seamlessly</li>
+      <td width="33%" style="padding:18px;">
+        <div style="padding:24px;border-radius:22px;background:linear-gradient(135deg,#0f172a 0%,#312e81 100%);color:#e0e7ff;box-shadow:0 20px 35px rgba(37,99,235,0.18);">
+          <h3>⚙️ Robust Systems</h3>
+          <p>Designing fault-tolerant backends with predictable behavior, strong logging, and clear documentation.</p>
+        </div>
+      </td>
+      <td width="33%" style="padding:18px;">
+        <div style="padding:24px;border-radius:22px;background:linear-gradient(135deg,#111827 0%,#6d28d9 100%);color:#ede9fe;box-shadow:0 20px 35px rgba(147,51,234,0.2);">
+          <h3>��� Scalable Architectures</h3>
+          <p>Applying modular patterns, domain-driven thinking, and resilient deployment strategies for growth-ready stacks.</p>
+        </div>
+      </td>
+      <td width="33%" style="padding:18px;">
+        <div style="padding:24px;border-radius:22px;background:linear-gradient(135deg,#111827 0%,#db2777 100%);color:#fee2f2;box-shadow:0 20px 35px rgba(236,72,153,0.2);">
+          <h3>��� Quality & Observability</h3>
+          <p>Championing clean code, test automation, and insightful metrics to keep teams moving confidently.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Technical Toolkit
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Languages</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=js,ts,php,python,go,c,cpp" />
+        </p>
+        <h3>Backend Frameworks</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,laravel" />
+        </p>
+        <h3>Frontend & Styling</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>Databases & Storage</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+        </p>
+        <h3>Tools & Platforms</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux" />
+        </p>
+        <h3>Practices & Focus</h3>
+        <p>
+          ✅ API-first development · ✅ Clean architecture · ✅ CI/CD automation · ✅ Performance diagnostics
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## In The Lab
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" style="padding:16px;">
+        <div style="padding:20px;border-radius:20px;background:rgba(59,130,246,0.08);border:1px solid rgba(59,130,246,0.25);">
+          <h4>��� Current Missions</h4>
+          <ul align="left">
+            <li>Refining backend API ergonomics & onboarding docs</li>
+            <li>Automating integration testing pipelines</li>
+            <li>Breaking down monoliths into focused services</li>
           </ul>
         </div>
-        <br/>
-        <p><em>"Always leveling up to adapt fast to any framework and technology!"</em> ⚡</p>
       </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E879F9&center=true&vCenter=true&width=800&lines=🚀+Currently+Building+Backend+Excellence;🌱+Always+Learning+%26+Growing" alt="Current Focus" />
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <div>
-          <h2>🔭 Working On</h2>
-          <img src="https://img.shields.io/badge/💻-Backend%20APIs%20%26%20Development-E879F9?style=for-the-badge&labelColor=0d1117&logoColor=white" />
-          <br/><br/>
-          <p>🏗️ Building robust server-side solutions</p>
-          <p>⚡ Designing scalable API architectures</p>
-          <p>🔧 Optimizing database performance</p>
-          <p>🚀 Implementing best practices</p>
+      <td width="33%" style="padding:16px;">
+        <div style="padding:20px;border-radius:20px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.25);">
+          <h4>��� Learning</h4>
+          <ul align="left">
+            <li>Domain-driven design for distributed systems</li>
+            <li>Event-driven communication patterns</li>
+            <li>Cloud-native workloads & observability stacks</li>
+          </ul>
         </div>
       </td>
-      <td align="center" width="50%" valign="top">
-        <div>
-          <h2>🌱 Learning</h2>
-          <img src="https://img.shields.io/badge/📚-Advanced%20Backend%20Fundamentals-4ecdc4?style=for-the-badge&labelColor=0d1117&logoColor=white" />
-          <br/><br/>
-          <p>🚀 Advanced system design patterns</p>
-          <p>🌐 Microservices architecture</p>
-          <p>📊 Performance optimization techniques</p>
-          <p>💫 Cloud computing fundamentals</p>
+      <td width="33%" style="padding:16px;">
+        <div style="padding:20px;border-radius:20px;background:rgba(236,72,153,0.08);border:1px solid rgba(236,72,153,0.25);">
+          <h4>✨ Values</h4>
+          <ul align="left">
+            <li>Documentation as part of delivery</li>
+            <li>Feedback loops that empower teams</li>
+            <li>Inclusive collaboration & mentorship</li>
+          </ul>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <h3>💬 Ask Me</h3>
-        <br/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/API_Design-E879F9?style=for-the-badge" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Database_Design-4ecdc4?style=for-the-badge" />
-      </td>
-      <td align="center" width="50%" valign="top">
-        <h3>🎨 Passionate</h3>
-        <br/>
-        <img src="https://img.shields.io/badge/Clean_Architecture-667eea?style=for-the-badge" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Scalable_Systems-764ba2?style=for-the-badge" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Code_Quality-a8e6cf?style=for-the-badge" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Best_Practices-ff8b94?style=for-the-badge" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Performance-ffd93d?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
-## 🛠️ Tech Stack
+## GitHub Overview
 
 <div align="center">
-
-**Languages**
-
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![PHP](https://skillicons.dev/icons?i=php)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![Go](https://skillicons.dev/icons?i=go)
-
-**Frontend**
-
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-**Backend**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=expressjs)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-
-**Databases**
-
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-**Tools**
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizul-Bitto&show_icons=true&theme=tokyonight&hide_border=true&title_color=E879F9&icon_color=E879F9&text_color=FFFFFF&count_private=true" height="170" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizul-Bitto&theme=tokyonight&hide_border=true&ring=E879F9&fire=E879F9&currStreakLabel=E879F9&sideLabels=E879F9" height="170" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizul-Bitto&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=E0E7FF&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizul-Bitto&theme=tokyonight&hide_border=true&ring=EC4899&fire=EC4899&currStreakLabel=F9A8D4&sideLabels=FDE68A" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizul-Bitto&layout=compact&theme=tokyonight&hide_border=true&title_color=E879F9&text_color=FFFFFF&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizul-Bitto&layout=compact&theme=tokyonight&hide_border=true&title_color=F472B6&text_color=E0E7FF&langs_count=8" height="170" />
 </div>
 
-<!-- Daily Contribution Graph -->
 <div align="center">
-  <h3>📈 Daily Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizul-Bitto&theme=tokyo-night&hide_border=true&color=E879F9&line=E879F9&point=FFFFFF&area=true&hide_title=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizul-Bitto&theme=tokyo-night&hide_border=true&color=8B5CF6&line=EC4899&point=FDE68A&area=true&hide_title=true" width="100%" alt="Contribution graph" />
 </div>
 
-<!-- Detailed GitHub Analytics -->
 <div align="center">
-  <h3>📊 Advanced GitHub Analytics</h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizul-Bitto&theme=tokyonight" width="100%" />
 </div>
 
@@ -211,68 +191,60 @@
   </table>
 </div>
 
-<!-- GitHub Contribution Snake Animation -->
 <div align="center">
-  <h3>🐍 Contribution Snake Game</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
 
-## 🏆 Achievements
+## Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizul-Bitto&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizul-Bitto&theme=radical&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Faizul-Bitto&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top repositories" />
 </div>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## Résumé & Portfolio
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Faizul-Bitto&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-</div>
-
----
-
-## 💡 Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-## 📄 Resume & Portfolio
-
-<div align="center">
-  <a href="https://drive.google.com/file/d/1FpPBRC-P7lQJUfcGYzRdNtxuJCCDd2f_/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_My_Resume-E879F9?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1FpPBRC-P7lQJUfcGYzRdNtxuJCCDd2f_/view?usp=drive_link" target="_blank" style="text-decoration:none;">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:DB2777&height=150&section=footer&text=���%20View%20My%20Résumé&fontSize=34&fontColor=ffffff&animation=twinkling&desc=Instant%20access%20to%20the%20latest%20Google%20Drive%20copy&descAlignY=72&descSize=16" alt="View My Resume" />
   </a>
+  <br/>
+  <sub>✨ Updated: November 2025</sub>
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Let's Build Together
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/faizul-bitto/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-  <a href="mailto:fibhuyanbitto06@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
-  <a href="https://github.com/Faizul-Bitto" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
+  <a href="https://www.linkedin.com/in/faizul-bitto/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/></a>
+  <a href="mailto:fibhuyanbitto06@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/></a>
+  <a href="https://github.com/Faizul-Bitto" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer quote" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=E879F9&center=true&vCenter=true&width=700&lines=✨+Thanks+for+visiting!+;🚀+Let's+build+something+amazing+together!;💻+Excited+to+collaborate+on+awesome+projects!+" alt="Thank You"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=✨+Thanks+for+dropping+by!;���+Let's+ship+impactful+products+together.;���+Always+open+to+exciting+backend+challenges." alt="Thank you message"/>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Faizul%20Bitto-E879F9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Faizul%20Bitto-6D28D9?style=for-the-badge" alt="Signature badge" />
 </div>
 
 <!-- Beautiful Ocean Wave Footer -->
