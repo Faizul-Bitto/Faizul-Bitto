@@ -110,7 +110,7 @@
       <td align="center" width="50%" valign="top">
         <h3>🎨 Passionate</h3>
         <br/>
-        <img src="https://img.shields.io/badge/Clean_Architecture-667eea?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Architecture-667eea?style=for-the-badge" />
         <br/><br/>
         <img src="https://img.shields.io/badge/Scalable_Systems-764ba2?style=for-the-badge" />
         <br/><br/>
