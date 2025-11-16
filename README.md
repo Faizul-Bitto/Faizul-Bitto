@@ -112,13 +112,13 @@
         <br/>
         <img src="https://img.shields.io/badge/Architecture-667eea?style=for-the-badge" />
         <br/><br/>
-        <img src="https://img.shields.io/badge/Scalable_Systems-764ba2?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Performance-ffd93d?style=for-the-badge" />
         <br/><br/>
         <img src="https://img.shields.io/badge/Code_Quality-a8e6cf?style=for-the-badge" />
         <br/><br/>
         <img src="https://img.shields.io/badge/Best_Practices-ff8b94?style=for-the-badge" />
         <br/><br/>
-        <img src="https://img.shields.io/badge/Performance-ffd93d?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Scalable_Systems-764ba2?style=for-the-badge" />
       </td>
     </tr>
   </table>
