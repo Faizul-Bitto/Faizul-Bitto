@@ -250,7 +250,7 @@
 ## 📄 Resume & Portfolio
 
 <div align="center">
-  <a href="" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1Ym63we7abOdsyJLNTRzJO0hhNCFTmElc?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_My_Resume-E879F9?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </div>
